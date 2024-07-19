@@ -1,4 +1,4 @@
-## HHello! I'm Daniel! 👋
+## Hello! I'm Daniel! 👋
 
 
 I am a developer interested in FrontEnd development and BackEnd development.
@@ -7,7 +7,7 @@ I am a developer interested in FrontEnd development and BackEnd development.
 ## 📫 Contact information:
 - ✉️ Email: danikmihai23@mail.ru 
 - 🔗 LinkedIn: https://www.linkedin.com/in/даниел-михай-4b72142b9/?locale=en_US
-- 📝 CV: Coming Sonn..
+- 📝 CV: Coming Soon..
 
 
 ## 👨‍💻 Biography
