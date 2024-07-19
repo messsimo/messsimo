@@ -1,16 +1,18 @@
-## Hi there 👋
+## HHello! I'm Daniel! 👋
 
-<!--
-**messsimo/messsimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am a developer interested in FrontEnd development and BackEnd development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Contact information:
+- ✉️ Email: danikmihai23@mail.ru 
+- 🔗 LinkedIn: https://www.linkedin.com/in/даниел-михай-4b72142b9/?locale=en_US
+- 📝 CV: Coming Sonn..
+
+
+## 👨‍💻 Biography
+Professional Fullstack developer with more than 1 year of experience. I work on interesting projects that include both front-end and back-end development. I strive to constantly learn and improve my skills. I share my projects and ideas here.
+
+
+
+
