@@ -13,6 +13,22 @@ I am a developer interested in FrontEnd development and BackEnd development.
 ## 👨‍💻 Biography
 Professional Fullstack developer with more than 1 year of experience. I work on interesting projects that include both front-end and back-end development. I strive to constantly learn and improve my skills. I share my projects and ideas here.
 
+## 🧩 Technologies
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- PHP
+- Laravel
+
+
+
+
+
+
+
+
+
 
 
 
