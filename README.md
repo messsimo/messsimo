@@ -1,7 +1,7 @@
 ## Hello! I'm Daniel! 👋
 
 
-I am a developer interested in FrontEnd development and BackEnd development.
+I am a Developer interested in FrontEnd development and BackEnd development.
 
 
 ## 📫 Contact information:
