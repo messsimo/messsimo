@@ -20,15 +20,5 @@ Professional Fullstack developer with more than 1 year of experience. I work on 
 - ReactJS
 - PHP
 - Laravel
-
-
-
-
-
-
-
-
-
-
-
-
+- Git
+- Figma
