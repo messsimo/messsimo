@@ -7,6 +7,7 @@ I am a Developer interested in FrontEnd development and BackEnd development.
 ## 📫 Contact information:
 - ✉️ Email: danikmihai23@mail.ru 
 - 🔗 LinkedIn: https://www.linkedin.com/in/даниел-михай-4b72142b9/?locale=en_US
+- 🌐 Web: Coming Soon..
 - 📝 CV: Coming Soon..
 
 
