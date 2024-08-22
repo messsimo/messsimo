@@ -16,11 +16,13 @@ Professional Fullstack developer with more than 1 year of experience. I work on 
 
 ## 🧩 Technologies
 <p align="center">
-    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
-    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
-    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>      
-    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
-    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
-    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
-    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
+    <img src="images/html.svg" alt="HTML" width="75"/>
+    <img src="images/css" alt="CSS" width="75"/>
+    <img src="images/js.svg" alt="JavaScript" width="75"/>
+    <img src="images/react.svg" alt="ReactJS" width="75"/>
+    <img src="images/php.png" alt="PHP" width="75"/>
+    <img src="images/laravel.svg" alt="Laravel" width="75"/>
+    <img src="images/mysql.svg" alt="mySQL" width="75"/>
+    <img src="images/git.svg" alt="Git" width="75"/>
+    <img src="images/figma.svg" alt="figma" width="75"/>
 </p>
