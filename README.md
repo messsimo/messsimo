@@ -15,11 +15,12 @@ I am a Developer interested in FullStack development.
 Professional Fullstack developer with more than 1 year of experience. I work on interesting projects that include both front-end and back-end development. I strive to constantly learn and improve my skills. I share my projects and ideas here.
 
 ## 🧩 Technologies
-- HTML
-- CSS
-- JavaScript
-- ReactJS
-- PHP
-- Laravel
-- Git
-- Figma
+<p align="center">
+    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
+    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
+    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>      
+    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
+    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
+    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
+    <img src="resources/readme_images/readme1.png" alt="Скриншот 1" width="75"/>
+</p>
