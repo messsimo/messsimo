@@ -24,5 +24,4 @@ Professional Fullstack developer with more than 1 year of experience. I work on 
     <img src="images/laravel.svg" alt="Laravel" width="75" height="50"/>
     <img src="images/mysql.svg" alt="mySQL" width="75" height="50"/>
     <img src="images/git.svg" alt="Git" width="75" height="50"/>
-    <img src="images/figma.svg" alt="figma" width="75" height="50"/>
 </p>
