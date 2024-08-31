@@ -1,7 +1,7 @@
 ## Hello! I'm Daniel! 👋
 
 
-I am a Software Engineer interested in FullStack development.
+I am a Software Developer interested in FullStack development.
 
 
 ## 📫 Contact information:
