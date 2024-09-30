@@ -6,7 +6,7 @@ I am a Software Developer interested in FullStack development.
 
 ## 📫 Contact information:
 - ✉️ Email: danielmihai.it@mail.ru 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/даниел-михай-4b72142b9/?locale=en_US](https://www.linkedin.com/in/danielmihaiit/?locale=en_US)
+- 🔗 LinkedIn: https://www.linkedin.com/in/danielmihaiit/?locale=en_US
 - 🌐 Web: Coming Soon..
 - 📝 CV: Coming Soon..
 
