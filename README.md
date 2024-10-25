@@ -11,8 +11,3 @@ Professional Fullstack developer with more than 1 year of experience. I work on 
 ![](https://github-readme-stats.vercel.app/api?username=messsimo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=messsimo&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=messsimo&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=messsimo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
